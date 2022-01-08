@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/weschang15/mailreceivable v0.0.0-20211230003425-71155b338a19 h1:KGVNmjGmsWFt2uzJBcEsEej4uj2Y7PYi4b65Qd2suo8=
+github.com/weschang15/mailreceivable v0.0.0-20211230003425-71155b338a19/go.mod h1:9d8aSTzhYX01bqWIXH/b4l1ssNlAD+7RBcC2nOJgWW4=
